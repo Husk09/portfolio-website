@@ -269,7 +269,7 @@ btn-color-2 {
 
 /* ABOUT SECTION  */
 
-/* @keyframes appear {
+@keyframes appear {
     from {
         opacity: 0;
         scale: 0.8;
@@ -279,13 +279,13 @@ btn-color-2 {
         opacity: 1;
         scale: 1;
     }
-} */
+}
 
 #about {
     position: relative;
-    /* animation: appear linear;
+    animation: appear linear;
     animation-timeline: view();
-    animation-range: entry 0% cover 40%; */
+    animation-range: entry 0% cover 40%;
 }
 
 .about-containers {
